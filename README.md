@@ -1,19 +1,27 @@
-# PRD Generator Skill
+# 软件产品经理.skill
 
-面向物联网软件产品的结构化 PRD 自动生成工具。
+工位已空，但产品的逻辑，蒸馏永驻。
 
-基于页面实现代码、`spec.md` 规格文档与功能范围，智能识别页面类型并匹配对应模板，生成适配研发、测试使用的标准化产品需求文档。
+### 💡 核心技能
+- 物联网产品设计 | IoT Software
+- PRD文档生成与研发对接
+- 蓝牙/BLE、4G/NB-IoT协议
+- 软硬件整合、DP点映射
+
+### 🛠 技术栈
+![IoT](https://img.shields.io/badge/IoT-物联网-blue)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-蓝牙-green)
+![4G](https://img.shields.io/badge/4G-远程通信-orange)
+![PRD](https://img.shields.io/badge/PRD-产品需求文档-purple)
+
+## 使用说明
+1.  上传SKILL.md到Claude Code技能目录
+2.  提供物联网软硬件需求、页面代码、spec文档
+3.  一键生成面向研发/测试的结构化PRD
 
 ---
 
-## 适用场景
-
-- 将已实现的页面转化为正式 PRD 文档
-- 根据 `spec.md` 生成面向研发/测试的结构化需求
-- 梳理蓝牙近场通信、4G 远程通信对应的 DP 功能点并映射至软件侧逻辑
-- 核对和修改已有 PRD 内容
-
-## 支持的页面类型
+## 支持的需求类型
 
 | 类型 | 说明 |
 |---|---|
